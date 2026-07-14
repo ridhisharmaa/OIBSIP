@@ -1,0 +1,506 @@
+name,year,selling_price,km_driven,fuel,seller_type,transmission,owner
+Renault Kwid,2014,339705,68195.0,petrol,Individual,Manual,First Owner
+Mahindra XUV500,2005,127696,267893.0,Petrol,Trustmark Dealer,Manual,First Owner
+Tata Nexon,2016,507312,41874.0,Diesel,Trustmark Dealer,Manual,First Owner
+Hyundai i20,2005,60731,110533.0,Petrol,Individual,Manual,Second Owner
+Renault Kwid,2010,207544,53736.0,Petrol,Trustmark Dealer,Manual,First Owner
+Hyundai Creta,2020,665906,28425.0,Diesel,Individual,Manual,Second Owner
+Hyundai Verna,2008,171952,201562.0,Petrol,Individual,Manual,First Owner
+Toyota Glanza,2012,562163,141733.0,Petrol,Individual,Manual,Second Owner
+Toyota Glanza,2006,323185,141129.0,Petrol,Individual,Manual,Second Owner
+Maruti Alto,2016,392099,64672.0,Petrol,Individual,Manual,First Owner
+Mahindra Scorpio,2014,479815,128091.0,Petrol,Individual,Manual,Third Owner
+Toyota Glanza,2012,543701,147571.0,Petrol,Individual,Manual,Second Owner
+Maruti Ertiga,2008,164433,212149.0,Diesel,Individual,Manual,First Owner
+Renault Kwid,2012,264804,110683.0,Diesel,Trustmark Dealer,Manual,First Owner
+Maruti Ertiga,2015,365980,49469.0,Petrol,Dealer,Manual,First Owner
+Ford Figo,2020,670712,1560.0,Petrol,Individual,Manual,First Owner
+Maruti Swift,2009,142286,102882.0,diesel,Dealer,Manual,Third Owner
+Mahindra Scorpio,2008,256182,186377.0,Petrol,Individual,Manual,First Owner
+Hyundai Verna,2016,580635,68736.0,Diesel,Individual,Automatic,Fourth & Above Owner
+Tata Altroz,2017,527948,39920.0,Petrol,Individual,Automatic,First Owner
+Tata Tiago,2011,195143,117704.0,Petrol,Dealer,Manual,Third Owner
+Toyota Glanza,2005,371579,312895.0,Diesel,Individual,Automatic,Second Owner
+Mahindra Scorpio,2008,314871,218726.0,Petrol,Dealer,Manual,First Owner
+Renault Duster,2012,307023,73845.0,Diesel,Individual,Manual,First Owner
+Toyota Glanza,2006,374720,152881.0,Petrol,Dealer,Manual,First Owner
+Tata Tiago,2011,175972,184996.0,Petrol,Individual,Manual,Second Owner
+Honda City,2019,634308,8415.0,Petrol,Dealer,Manual,Second Owner
+Ford Aspire,2010,253204,55725.0,Petrol,Dealer,Manual,Second Owner
+Tata Altroz,2005,174591,160262.0,Diesel,Individual,Automatic,First Owner
+Maruti Alto,2013,214488,46477.0,Petrol,Individual,Manual,Third Owner
+Ford EcoSport,2006,110002,92167.0,Diesel,Dealer,Manual,First Owner
+Renault Kwid,2008,60348,184032.0,Petrol,Individual,Manual,First Owner
+Mahindra XUV500,2010,435183,132307.0,cng,Individual,Automatic,First Owner
+Renault Kwid,2017,470417,60920.0,diesel,Individual,Manual,Second Owner
+Maruti Ertiga,2014,300023,47825.0,Petrol,Dealer,Manual,First Owner
+Hyundai Creta,2007,61855,250531.0,Petrol,Individual,Manual,Second Owner
+Toyota Fortuner,2020,911688,7454.0,CNG,Individual,Manual,Second Owner
+Mahindra Scorpio,2016,473058,98238.0,Petrol,Individual,Manual,Fourth & Above Owner
+Renault Triber,2014,313217,106434.0,LPG,Dealer,Manual,Second Owner
+Toyota Fortuner,2019,844360,35450.0,petrol,Individual,Manual,First Owner
+Ford EcoSport,2018,497768,56033.0,Petrol,Individual,Manual,Fourth & Above Owner
+Mahindra Bolero,2019,707554,32980.0,Petrol,Dealer,Automatic,Third Owner
+Hyundai Creta,2007,102210,123357.0,CNG,Dealer,Manual,First Owner
+Renault Kwid,2018,474847,48783.0,Petrol,Dealer,Manual,First Owner
+Renault Kwid,2008,103744,179675.0,Petrol,Individual,Automatic,Second Owner
+Tata Harrier,2013,346280,53641.0,Diesel,Dealer,Manual,Second Owner
+Maruti Ertiga,2014,304326,38706.0,Petrol,Dealer,Manual,Second Owner
+Honda WR-V,2017,628520,73266.0,Petrol,Individual,Automatic,First Owner
+Ford EcoSport,2009,222615,204040.0,Diesel,Dealer,Manual,Second Owner
+Hyundai i10,2020,735979,16345.0,Petrol,Individual,Automatic,First Owner
+Hyundai i10,2011,283654,104514.0,petrol,Dealer,Manual,Second Owner
+Mahindra XUV500,2019,683026,23333.0,Petrol,Individual,Automatic,Fourth & Above Owner
+Honda City,2007,140465,183501.0,Petrol,Trustmark Dealer,Manual,First Owner
+Honda WR-V,2010,398719,184206.0,Diesel,Dealer,Automatic,First Owner
+Maruti Alto,2011,209583,191101.0,Diesel,Dealer,Manual,First Owner
+Maruti Ertiga,2009,134388,81790.0,Petrol,Individual,Manual,First Owner
+Hyundai i10,2017,498930,79804.0,LPG,Individual,Manual,First Owner
+Hyundai Creta,2009,223057,141971.0,Diesel,Dealer,Manual,Second Owner
+Maruti Swift,2012,233782,138117.0,Petrol,Individual,Manual,Second Owner
+Hyundai Verna,2009,247152,133257.0,petrol,Individual,Manual,First Owner
+Honda WR-V,2005,85764,280516.0,Petrol,Individual,Manual,First Owner
+Honda Amaze,2008,282419,80557.0,CNG,Dealer,Manual,Second Owner
+Hyundai Venue,2012,346233,81548.0,Diesel,Dealer,Manual,Third Owner
+Mahindra Bolero,2018,633137,42972.0,petrol,Trustmark Dealer,Manual,First Owner
+Honda WR-V,2015,434550,,Petrol,Dealer,Manual,Fourth & Above Owner
+Mahindra XUV500,2010,349687,118101.0,Petrol,Individual,Manual,First Owner
+Tata Tiago,2008,129738,172001.0,Petrol,Individual,Manual,First Owner
+Hyundai i10,2011,339929,61889.0,Petrol,Dealer,Manual,First Owner
+Mahindra Scorpio,2009,429428,136642.0,CNG,Dealer,Automatic,First Owner
+Mahindra Bolero,2009,471999,92002.0,diesel,Individual,Manual,First Owner
+Hyundai Verna,2009,259872,70444.0,Petrol,Dealer,Manual,First Owner
+Honda Jazz,2019,644791,35997.0,Petrol,Individual,Manual,First Owner
+Honda WR-V,2020,636476,15309.0,Petrol,Individual,Manual,Second Owner
+Toyota Fortuner,2018,817101,19313.0,Diesel,Dealer,Manual,Third Owner
+Tata Altroz,2019,523120,21506.0,Diesel,Individual,Manual,Second Owner
+Ford Aspire,2009,190873,149626.0,CNG,Individual,Manual,First Owner
+Maruti Ertiga,2010,120083,216282.0,Petrol,Individual,Manual,First Owner
+Toyota Fortuner,2014,715964,86708.0,Petrol,Individual,Manual,First Owner
+Tata Tiago,2012,381682,54731.0,Petrol,Dealer,Automatic,Second Owner
+Maruti Swift,2016,403020,60865.0,Petrol,Individual,Manual,Second Owner
+Hyundai i20,2011,353212,149919.0,Petrol,Individual,Automatic,Third Owner
+Hyundai i10,2008,270676,146248.0,Diesel,Individual,Manual,First Owner
+Hyundai Creta,2007,241107,141176.0,Petrol,Individual,Automatic,First Owner
+Tata Altroz,2019,527026,53546.0,Petrol,Individual,Manual,First Owner
+Toyota Innova,2009,344261,220624.0,Petrol,Individual,Manual,Second Owner
+Honda Jazz,2018,546609,40269.0,Petrol,Dealer,Manual,Third Owner
+Mahindra XUV500,2011,352734,128043.0,Petrol,Individual,Manual,Third Owner
+Ford Aspire,2014,503136,42030.0,Diesel,Individual,Automatic,Third Owner
+Mahindra Bolero,2009,285152,65726.0,Petrol,Individual,Manual,Third Owner
+Tata Harrier,2007,71482,79020.0,Petrol,Individual,Manual,Fourth & Above Owner
+Renault Kwid,2016,507437,56227.0,Diesel,Dealer,Manual,First Owner
+Ford EcoSport,2007,154368,90740.0,Diesel,Individual,Manual,Third Owner
+Maruti Ertiga,2015,361951,24855.0,petrol,Individual,Manual,First Owner
+Toyota Fortuner,2019,831281,18145.0,Petrol,Individual,Manual,First Owner
+Tata Tiago,2011,368826,110219.0,Petrol,Individual,Automatic,Second Owner
+Ford Aspire,2018,578902,56014.0,Petrol,Dealer,Manual,First Owner
+Hyundai i20,2015,516557,51550.0,Diesel,Individual,Manual,First Owner
+Mahindra XUV500,2006,264819,261801.0,Petrol,Trustmark Dealer,Automatic,First Owner
+Hyundai Venue,2018,511326,35604.0,cng,Dealer,Manual,Second Owner
+Honda WR-V,2014,463542,113226.0,Petrol,Trustmark Dealer,Manual,Second Owner
+Ford Figo,2015,582479,45022.0,Petrol,Dealer,Automatic,First Owner
+Toyota Fortuner,2015,695007,42728.0,Diesel,Individual,Manual,Second Owner
+Renault Kwid,2009,99099,92878.0,Petrol,Individual,Manual,Second Owner
+Maruti Dzire,2005,40000,142886.0,Petrol,Dealer,Automatic,First Owner
+Toyota Etios,2007,403863,140296.0,petrol,Individual,Manual,First Owner
+Tata Altroz,2010,183935,196131.0,Diesel,Trustmark Dealer,Manual,Second Owner
+Maruti Dzire,2006,40000,226230.0,Diesel,Dealer,Manual,Second Owner
+Ford Figo,2005,40000,190191.0,Petrol,Individual,Manual,Second Owner
+Hyundai i10,2014,386517,83731.0,LPG,Trustmark Dealer,Manual,First Owner
+Honda Amaze,2008,258925,121821.0,CNG,Individual,Manual,Second Owner
+Ford EcoSport,2007,156751,103813.0,Petrol,Individual,Manual,Second Owner
+Renault Duster,2015,513209,128292.0,Diesel,Dealer,Automatic,First Owner
+Honda WR-V,2007,198412,114179.0,Petrol,Dealer,Manual,First Owner
+Hyundai Venue,2014,430334,119050.0,Petrol,Dealer,Manual,First Owner
+Maruti Alto,2005,40000,238771.0,lpg,Trustmark Dealer,Manual,First Owner
+Toyota Glanza,2016,794685,53493.0,Diesel,Individual,Manual,First Owner
+Mahindra Bolero,2005,172314,121766.0,Diesel,Trustmark Dealer,Manual,Third Owner
+Honda Amaze,2018,629309,66303.0,CNG,Dealer,Manual,Second Owner
+Mahindra Bolero,2007,293725,72415.0,Petrol,Dealer,Manual,Second Owner
+Honda Amaze,2013,462677,71499.0,Petrol,Individual,Manual,First Owner
+Hyundai Creta,2020,656440,10394.0,Diesel,Dealer,Manual,Second Owner
+Tata Nexon,2009,217359,221840.0,Petrol,Trustmark Dealer,Automatic,Second Owner
+Maruti Alto,2007,40000,236201.0,Petrol,Individual,Manual,Third Owner
+Hyundai i10,2019,733142,16231.0,Diesel,Individual,Automatic,First Owner
+Mahindra Scorpio,2020,824746,8687.0,Diesel,Individual,Manual,First Owner
+Renault Duster,2007,40000,137327.0,Petrol,Dealer,Manual,Second Owner
+Mahindra Scorpio,2010,260056,186551.0,Petrol,Dealer,Manual,Third Owner
+Renault Kwid,2018,450223,52611.0,CNG,Individual,Manual,First Owner
+Mahindra XUV500,2008,318172,89833.0,LPG,Individual,Manual,First Owner
+Renault Triber,2009,40000,112503.0,Petrol,Individual,Manual,Third Owner
+Tata Altroz,2009,120364,242710.0,CNG,Individual,Manual,First Owner
+Toyota Etios,2020,894613,5801.0,Diesel,Dealer,Manual,Third Owner
+Maruti Ertiga,2015,359247,56956.0,Petrol,Individual,Manual,First Owner
+Mahindra XUV500,2008,156622,137100.0,Petrol,Trustmark Dealer,Manual,Fourth & Above Owner
+Mahindra XUV500,2006,226591,78978.0,Petrol,Individual,Manual,First Owner
+Ford Figo,2014,419427,119695.0,Diesel,Dealer,Manual,First Owner
+Toyota Innova,2008,415703,254844.0,Diesel,Individual,Manual,First Owner
+Toyota Fortuner,2016,729064,41611.0,Petrol,Individual,Manual,First Owner
+Toyota Fortuner,2011,628313,64027.0,CNG,Individual,Manual,First Owner
+Renault Duster,2012,272242,72514.0,Diesel,Individual,Manual,First Owner
+Renault Kwid,2018,471777,40691.0,Diesel,Dealer,Manual,Third Owner
+Hyundai Creta,2013,418314,145733.0,Diesel,Dealer,Manual,First Owner
+Tata Tiago,2007,98043,172834.0,Petrol,Individual,Automatic,Third Owner
+Tata Harrier,2008,104852,243790.0,Petrol,Trustmark Dealer,Manual,Second Owner
+Mahindra XUV500,2015,562727,28798.0,LPG,Dealer,Manual,Second Owner
+Renault Kwid,2014,298193,79166.0,Diesel,Individual,Manual,Third Owner
+Mahindra XUV500,2013,475386,126644.0,Diesel,Individual,Automatic,Fourth & Above Owner
+Honda Amaze,2009,283853,214298.0,Diesel,Dealer,Manual,Second Owner
+Toyota Innova,2012,494683,72146.0,CNG,Individual,Manual,Third Owner
+Toyota Innova,2015,778378,92647.0,Diesel,Dealer,Manual,Second Owner
+Hyundai Verna,2020,694823,11404.0,Diesel,Dealer,Manual,First Owner
+Renault Duster,2014,319704,97406.0,diesel,Dealer,Manual,First Owner
+Toyota Etios,2006,320653,169640.0,CNG,Individual,Manual,First Owner
+Tata Altroz,2013,260812,102923.0,CNG,Individual,Manual,Third Owner
+Renault Triber,2009,238487,104998.0,Diesel,Trustmark Dealer,Automatic,Second Owner
+Toyota Fortuner,2011,540375,70641.0,Petrol,Individual,Manual,Third Owner
+Hyundai Verna,2005,40000,308551.0,petrol,Individual,Manual,First Owner
+Tata Altroz,2005,85164,226331.0,Petrol,Individual,Automatic,First Owner
+Maruti Alto,2005,40000,155952.0,Petrol,Dealer,Manual,First Owner
+Toyota Etios,2005,230165,287870.0,Petrol,Dealer,Manual,Third Owner
+Honda Jazz,2005,127838,229574.0,diesel,Dealer,Manual,First Owner
+Renault Duster,2018,491845,36749.0,Petrol,Individual,Manual,First Owner
+Ford Figo,2020,653722,16598.0,Petrol,Individual,Manual,First Owner
+Maruti Ertiga,2011,271331,194598.0,Diesel,Dealer,Automatic,Second Owner
+Ford Figo,2019,625070,20846.0,Petrol,Individual,Manual,First Owner
+Mahindra Scorpio,2012,478118,130643.0,Diesel,Individual,Manual,First Owner
+Tata Tiago,2017,487186,43482.0,Diesel,Dealer,Manual,Third Owner
+Honda WR-V,2012,428565,161133.0,Diesel,Individual,Manual,First Owner
+Hyundai Creta,2012,210111,162694.0,Petrol,Individual,Manual,Third Owner
+Mahindra XUV500,2016,561815,102623.0,Diesel,Individual,Manual,Second Owner
+Honda WR-V,2005,164614,88328.0,Diesel,Individual,Manual,First Owner
+Maruti Wagon R,2007,59550,200561.0,Diesel,Individual,Manual,First Owner
+Hyundai Creta,2008,164983,197910.0,CNG,Individual,Manual,First Owner
+Ford EcoSport,2009,221509,89837.0,Petrol,Dealer,Manual,First Owner
+Ford Aspire,2013,454442,77964.0,Diesel,Individual,Manual,First Owner
+Hyundai Creta,2020,549320,2386.0,Petrol,Individual,Manual,Third Owner
+Maruti Baleno,2008,221682,70263.0,CNG,Individual,Automatic,First Owner
+Honda Jazz,2006,138296,221714.0,Diesel,Dealer,Manual,Second Owner
+Honda Amaze,2013,449551,,Diesel,Trustmark Dealer,Manual,First Owner
+Hyundai i20,2009,136903,193726.0,Petrol,Individual,Manual,Second Owner
+Ford Figo,2010,345381,80428.0,Diesel,Dealer,Automatic,Second Owner
+Maruti Ertiga,2012,301640,94384.0,Petrol,Individual,Automatic,Second Owner
+Maruti Ertiga,2009,95758,125080.0,Petrol,Dealer,Automatic,Third Owner
+Renault Kwid,2020,556247,8746.0,CNG,Individual,Manual,First Owner
+Ford EcoSport,2006,119987,84960.0,Petrol,Individual,Manual,First Owner
+Mahindra Scorpio,2005,91469,321144.0,CNG,Individual,Manual,First Owner
+Honda Jazz,2013,444445,141481.0,Diesel,Individual,Manual,First Owner
+Renault Kwid,2018,445942,35639.0,Diesel,Individual,Manual,First Owner
+Tata Tiago,2011,316244,171955.0,Diesel,Individual,Manual,First Owner
+Hyundai Venue,2018,605938,43034.0,Diesel,Trustmark Dealer,Manual,Second Owner
+Toyota Etios,2009,532723,147400.0,Diesel,Dealer,Manual,Second Owner
+Honda WR-V,2007,258936,107435.0,Diesel,Individual,Manual,First Owner
+Honda City,2008,193584,212168.0,Petrol,Individual,Manual,Second Owner
+Toyota Glanza,2008,429905,176077.0,CNG,Individual,Manual,First Owner
+Tata Altroz,2016,435953,70201.0,LPG,Individual,Manual,First Owner
+Tata Tiago,2015,392020,106141.0,Diesel,Individual,Manual,Second Owner
+Toyota Innova,2020,972312,13244.0,Diesel,Dealer,Manual,First Owner
+Hyundai i20,2020,754209,500.0,LPG,Dealer,Automatic,First Owner
+Toyota Etios,2009,548291,226589.0,Diesel,Individual,Manual,First Owner
+Tata Tiago,2019,496089,37442.0,Petrol,Individual,Manual,Third Owner
+Honda City,2019,700235,48006.0,Petrol,Individual,Manual,First Owner
+Hyundai Verna,2011,369265,104400.0,Petrol,Dealer,Automatic,Second Owner
+Hyundai i10,2015,330200,57896.0,Petrol,Individual,Manual,Fourth & Above Owner
+Tata Nexon,2010,197145,145944.0,Diesel,Individual,Manual,First Owner
+Maruti Alto,2006,61414,123483.0,Diesel,Individual,Manual,First Owner
+Maruti Alto,2008,46139,226349.0,Diesel,Individual,Manual,First Owner
+Renault Kwid,2009,40000,243083.0,CNG,Individual,Manual,Fourth & Above Owner
+Renault Triber,2010,214341,135040.0,Petrol,Dealer,Manual,First Owner
+Mahindra XUV500,2011,387997,65744.0,Petrol,Individual,Manual,Second Owner
+Honda Jazz,2015,448485,84088.0,Petrol,Dealer,Manual,Second Owner
+Maruti Alto,2006,40000,226248.0,Petrol,Individual,Manual,First Owner
+Maruti Ertiga,2015,337173,112885.0,Diesel,Individual,Manual,Second Owner
+Mahindra Scorpio,2016,668607,54244.0,Diesel,Individual,Manual,First Owner
+Tata Harrier,2009,130067,144228.0,CNG,Individual,Manual,Second Owner
+Maruti Dzire,2014,341716,130749.0,Diesel,Individual,Manual,First Owner
+Tata Nexon,2017,509528,35770.0,Diesel,Individual,Manual,Second Owner
+Toyota Fortuner,2019,805720,33687.0,Petrol,Individual,Manual,Second Owner
+Hyundai Verna,2012,351112,71164.0,Petrol,Dealer,Automatic,Third Owner
+Honda WR-V,2009,244422,205339.0,Petrol,Individual,Manual,First Owner
+Maruti Dzire,2014,366789,72175.0,Diesel,Individual,Manual,First Owner
+Tata Tiago,2009,250968,110943.0,Petrol,Trustmark Dealer,Automatic,First Owner
+Tata Nexon,2020,620019,3265.0,CNG,Individual,Manual,First Owner
+Honda Amaze,2019,609352,24124.0,CNG,Trustmark Dealer,Manual,First Owner
+Hyundai Venue,2020,630151,5681.0,CNG,Individual,Manual,First Owner
+Honda City,2016,526412,14770.0,Petrol,Individual,Manual,Second Owner
+Maruti Baleno,2013,179721,107200.0,LPG,Dealer,Manual,Second Owner
+Renault Duster,2006,40000,246887.0,Petrol,Trustmark Dealer,Manual,First Owner
+Tata Harrier,2008,145239,243984.0,Diesel,Individual,Automatic,Second Owner
+Renault Duster,2018,412623,21461.0,Petrol,Dealer,Manual,Third Owner
+Renault Duster,2009,103907,52489.0,Petrol,Individual,Manual,Second Owner
+Honda WR-V,2018,618668,36913.0,Petrol,Dealer,Manual,Second Owner
+Toyota Glanza,2018,835696,49482.0,Petrol,Individual,Manual,First Owner
+Renault Duster,2019,560425,30680.0,Diesel,Individual,Manual,First Owner
+Ford Aspire,2010,378410,72311.0,Petrol,Dealer,Automatic,First Owner
+Tata Nexon,2006,130528,118091.0,Petrol,Dealer,Manual,First Owner
+Renault Kwid,2008,71910,201267.0,Petrol,Dealer,Manual,Second Owner
+Ford Figo,2007,112088,227913.0,LPG,Individual,Manual,First Owner
+Ford EcoSport,2015,494135,78611.0,Diesel,Individual,Manual,Second Owner
+Mahindra XUV500,2016,623126,55119.0,Petrol,Individual,Manual,Third Owner
+Ford Aspire,2016,456826,42926.0,Diesel,Individual,Manual,Fourth & Above Owner
+Maruti Ertiga,2018,570597,10780.0,Diesel,Individual,Manual,First Owner
+Maruti Ertiga,2014,259019,112193.0,Petrol,Individual,Manual,First Owner
+Honda WR-V,2005,82988,,Petrol,Individual,Manual,Third Owner
+Renault Kwid,2018,473595,17373.0,Petrol,Individual,Manual,First Owner
+Renault Triber,2019,610231,36884.0,Diesel,Individual,Automatic,Second Owner
+Hyundai i10,2020,594058,7708.0,CNG,Individual,Manual,Second Owner
+Hyundai Venue,2013,379675,118878.0,Diesel,Dealer,Manual,Second Owner
+Maruti Alto,2008,40000,83743.0,CNG,Individual,Manual,Third Owner
+Tata Altroz,2007,61212,207985.0,petrol,Individual,Manual,First Owner
+Mahindra XUV500,2005,174649,237757.0,Petrol,Dealer,Manual,First Owner
+Tata Nexon,2019,587255,19948.0,Petrol,Dealer,Automatic,Third Owner
+Mahindra Scorpio,2020,765186,25336.0,Petrol,Individual,Manual,First Owner
+Toyota Innova,2015,693992,114475.0,Petrol,Individual,Manual,First Owner
+Mahindra Bolero,2018,699422,28031.0,CNG,Individual,Manual,First Owner
+Renault Duster,2018,450196,65848.0,CNG,Trustmark Dealer,Manual,First Owner
+Tata Nexon,2009,167223,100220.0,Diesel,Trustmark Dealer,Manual,Second Owner
+Tata Harrier,2009,122908,146139.0,Petrol,Dealer,Manual,First Owner
+Hyundai i20,2018,572213,61649.0,LPG,Dealer,Manual,First Owner
+Tata Altroz,2014,355245,145252.0,Petrol,Individual,Manual,First Owner
+Maruti Wagon R,2014,278720,95535.0,Petrol,Individual,Manual,First Owner
+Toyota Innova,2019,895069,29500.0,Petrol,Individual,Manual,First Owner
+Ford Figo,2015,465242,33554.0,Petrol,Individual,Manual,First Owner
+Tata Nexon,2010,224151,87817.0,Petrol,Individual,Automatic,First Owner
+Toyota Glanza,2017,740392,33068.0,Petrol,Dealer,Manual,Second Owner
+Hyundai Venue,2018,542999,51238.0,CNG,Individual,Manual,Third Owner
+Ford EcoSport,2010,287233,81627.0,Petrol,Individual,Manual,First Owner
+Honda Jazz,2006,81715,111726.0,Petrol,Individual,Manual,Fourth & Above Owner
+Maruti Baleno,2006,40000,288832.0,Petrol,Dealer,Manual,Third Owner
+Honda Amaze,2007,159146,123315.0,Petrol,Dealer,Manual,First Owner
+Toyota Etios,2013,630712,52871.0,Diesel,Dealer,Manual,Third Owner
+Honda WR-V,2006,233203,140399.0,Petrol,Dealer,Manual,First Owner
+Honda Jazz,2020,750316,8578.0,Petrol,Dealer,Manual,First Owner
+Maruti Swift,2018,475660,17168.0,Petrol,Individual,Manual,Second Owner
+Honda WR-V,2018,646644,32121.0,Petrol,Individual,Manual,Second Owner
+Toyota Innova,2005,293269,212781.0,Petrol,Individual,Manual,First Owner
+Hyundai Verna,2008,160234,180805.0,Petrol,Dealer,Manual,First Owner
+Tata Altroz,2020,675145,806.0,Diesel,Dealer,Manual,Third Owner
+Ford Figo,2019,696245,48645.0,Petrol,Individual,Automatic,First Owner
+Renault Kwid,2007,79625,195036.0,Petrol,Individual,Manual,Second Owner
+Renault Kwid,2009,64645,165224.0,Petrol,Individual,Manual,Second Owner
+Toyota Glanza,2013,690764,92793.0,Diesel,Dealer,Manual,First Owner
+Honda City,2007,303903,146549.0,Petrol,Individual,Automatic,First Owner
+Maruti Swift,2010,89391,196395.0,Diesel,Individual,Manual,Third Owner
+Renault Duster,2018,542950,16408.0,CNG,Individual,Automatic,Second Owner
+Tata Harrier,2010,263652,144195.0,Diesel,Individual,Manual,First Owner
+Hyundai i10,2014,356352,117961.0,Petrol,Dealer,Manual,Third Owner
+Hyundai i20,2009,232382,154028.0,Petrol,Individual,Manual,First Owner
+Renault Kwid,2018,525130,19303.0,Petrol,Individual,Manual,First Owner
+Tata Tiago,2007,85624,282405.0,Petrol,Dealer,Manual,First Owner
+Renault Duster,2006,40000,103748.0,Petrol,Individual,Manual,Second Owner
+Hyundai Venue,2019,655740,17456.0,Petrol,Dealer,Manual,First Owner
+Renault Triber,2014,343161,39206.0,Diesel,Dealer,Manual,Second Owner
+Hyundai i20,2009,229098,110042.0,Petrol,Individual,Manual,Second Owner
+Mahindra Bolero,2009,320753,198625.0,Petrol,Trustmark Dealer,Manual,First Owner
+Maruti Alto,2012,222433,108864.0,Diesel,Individual,Manual,Second Owner
+Honda Jazz,2007,167229,215725.0,Petrol,Dealer,Manual,First Owner
+Mahindra XUV500,2017,729142,59714.0,Diesel,Individual,Automatic,Second Owner
+Ford EcoSport,2013,293798,164829.0,Petrol,Individual,Manual,Third Owner
+Hyundai Verna,2019,556238,27529.0,Petrol,Dealer,Manual,Third Owner
+Tata Tiago,2019,556894,22301.0,Petrol,Dealer,Manual,First Owner
+Mahindra Scorpio,2005,230469,123994.0,Diesel,Individual,Manual,First Owner
+Hyundai i10,2015,431098,95373.0,Diesel,Individual,Manual,Second Owner
+Honda City,2011,268341,117366.0,Petrol,Dealer,Manual,Third Owner
+Maruti Swift,2018,514416,29700.0,Petrol,Individual,Manual,First Owner
+Toyota Fortuner,2007,435272,76291.0,Petrol,Individual,Manual,Second Owner
+Tata Tiago,2009,171983,126873.0,Petrol,Dealer,Manual,First Owner
+Tata Tiago,2010,272925,83673.0,Petrol,Dealer,Manual,First Owner
+Maruti Swift,2009,133418,212648.0,Diesel,Trustmark Dealer,Manual,Second Owner
+Maruti Alto,2018,533038,41224.0,Petrol,Dealer,Manual,First Owner
+Toyota Glanza,2020,921017,20676.0,Petrol,Dealer,Manual,First Owner
+Hyundai i10,2009,219466,100599.0,Diesel,Individual,Manual,First Owner
+Mahindra Scorpio,2010,294086,194043.0,Petrol,Individual,Manual,Second Owner
+Mahindra Scorpio,2016,603084,66830.0,Petrol,Dealer,Manual,First Owner
+Tata Harrier,2011,87229,174276.0,Petrol,Individual,Manual,Fourth & Above Owner
+Toyota Etios,2019,908574,27504.0,Diesel,Individual,Manual,First Owner
+Honda Jazz,2018,595111,51554.0,Petrol,Trustmark Dealer,Manual,First Owner
+Mahindra XUV500,2012,512695,85212.0,Diesel,Individual,Manual,Second Owner
+Mahindra XUV500,2012,442523,116040.0,Petrol,Individual,Manual,First Owner
+Mahindra Scorpio,2015,519428,108209.0,Petrol,Individual,Manual,First Owner
+Toyota Etios,2009,332531,214677.0,Petrol,Individual,Manual,Fourth & Above Owner
+Maruti Alto,2019,481395,41364.0,Petrol,Individual,Manual,Second Owner
+Maruti Ertiga,2010,156161,193686.0,Diesel,Individual,Manual,First Owner
+Hyundai i10,2010,279791,161004.0,CNG,Individual,Manual,Second Owner
+Hyundai Creta,2018,646962,54514.0,LPG,Dealer,Automatic,Second Owner
+Tata Harrier,2018,587434,51099.0,Diesel,Dealer,Manual,First Owner
+Toyota Innova,2013,619828,173076.0,Petrol,Individual,Manual,Second Owner
+Hyundai Verna,2014,402190,112416.0,Petrol,Dealer,Manual,Second Owner
+Toyota Fortuner,2019,738474,64761.0,Petrol,Individual,Manual,Third Owner
+Renault Duster,2010,142515,81418.0,Petrol,Dealer,Manual,Third Owner
+Maruti Swift,2008,73091,220265.0,Diesel,Individual,Manual,First Owner
+Tata Nexon,2018,563501,36627.0,Diesel,Dealer,Manual,First Owner
+Tata Nexon,2018,552588,44692.0,Petrol,Trustmark Dealer,Manual,First Owner
+Tata Tiago,2008,100106,189527.0,Petrol,Individual,Manual,First Owner
+Renault Kwid,2014,343515,42186.0,Diesel,Individual,Manual,First Owner
+Toyota Etios,2011,433273,206992.0,Petrol,Dealer,Manual,Third Owner
+Renault Kwid,2017,499045,45129.0,Petrol,Individual,Automatic,Second Owner
+Honda City,2015,517344,76774.0,Petrol,Individual,Manual,First Owner
+Maruti Ertiga,2013,308878,142308.0,Petrol,Individual,Manual,First Owner
+Hyundai Creta,2020,657588,7441.0,Petrol,Individual,Manual,Second Owner
+Honda WR-V,2020,765042,5570.0,Petrol,Individual,Manual,First Owner
+Renault Triber,2007,59254,143279.0,Diesel,Individual,Manual,First Owner
+Mahindra XUV500,2016,696991,48781.0,Diesel,Individual,Manual,First Owner
+Ford Figo,2005,42931,126421.0,Petrol,Individual,Manual,First Owner
+Honda City,2005,215482,164658.0,Petrol,Individual,Automatic,First Owner
+Toyota Glanza,2008,326009,246691.0,Petrol,Trustmark Dealer,Manual,Second Owner
+Maruti Baleno,2010,195315,157730.0,Petrol,Individual,Manual,First Owner
+Maruti Ertiga,2008,40000,248959.0,Petrol,Individual,Manual,Second Owner
+Maruti Ertiga,2014,270473,105758.0,Petrol,Individual,Manual,First Owner
+Honda WR-V,2005,121701,175709.0,Petrol,Dealer,Manual,First Owner
+Mahindra Bolero,2006,153303,255507.0,Petrol,Individual,Manual,Second Owner
+Tata Harrier,2011,290052,66759.0,Diesel,Individual,Manual,Second Owner
+Mahindra XUV500,2006,106174,309280.0,Petrol,Individual,Manual,First Owner
+Honda City,2016,555339,81969.0,Petrol,Trustmark Dealer,Manual,First Owner
+Toyota Innova,2013,607129,67964.0,Petrol,Dealer,Manual,Third Owner
+Renault Duster,2010,209413,91074.0,Petrol,Individual,Automatic,Second Owner
+Mahindra XUV500,2017,688819,2606.0,Diesel,Individual,Automatic,Fourth & Above Owner
+Maruti Wagon R,2006,40000,288872.0,CNG,Individual,Manual,Second Owner
+Tata Nexon,2010,335077,95892.0,Diesel,Dealer,Automatic,First Owner
+Tata Harrier,2017,456712,87506.0,Petrol,Individual,Manual,First Owner
+Maruti Wagon R,2007,40000,272193.0,Petrol,Dealer,Manual,Third Owner
+Maruti Dzire,2009,214517,110540.0,Diesel,Dealer,Manual,First Owner
+Honda WR-V,2014,467258,77448.0,Petrol,Individual,Manual,First Owner
+Hyundai Venue,2007,258889,112973.0,Diesel,Individual,Automatic,Fourth & Above Owner
+Maruti Ertiga,2005,40000,136848.0,Petrol,Individual,Automatic,First Owner
+Tata Harrier,2009,193359,131527.0,Diesel,Individual,Manual,First Owner
+Hyundai Venue,2012,385756,143531.0,Diesel,Individual,Manual,First Owner
+Maruti Dzire,2014,381486,93904.0,Petrol,Individual,Automatic,First Owner
+Ford Figo,2017,558877,60378.0,Diesel,Individual,Manual,First Owner
+Tata Nexon,2017,536345,,Diesel,Dealer,Automatic,Second Owner
+Mahindra Bolero,2006,235626,114946.0,Petrol,Individual,Manual,First Owner
+Maruti Wagon R,2016,363314,102873.0,Diesel,Trustmark Dealer,Manual,Third Owner
+Mahindra Scorpio,2017,671309,55484.0,petrol,Trustmark Dealer,Manual,First Owner
+Toyota Glanza,2016,738373,113293.0,Petrol,Individual,Manual,First Owner
+Tata Tiago,2008,197141,83657.0,Petrol,Dealer,Manual,First Owner
+Mahindra Scorpio,2008,315967,151224.0,Diesel,Individual,Manual,First Owner
+Hyundai i10,2010,217305,172585.0,Diesel,Dealer,Manual,Second Owner
+Tata Nexon,2012,325334,91409.0,Petrol,Individual,Manual,First Owner
+Renault Duster,2015,373569,47038.0,Petrol,Individual,Manual,First Owner
+Mahindra Bolero,2017,685710,61002.0,Diesel,Individual,Manual,Second Owner
+Honda City,2013,364828,140363.0,Diesel,Individual,Manual,Fourth & Above Owner
+Maruti Swift,2018,442433,27598.0,Petrol,Individual,Manual,First Owner
+Renault Triber,2010,176004,152693.0,diesel,Individual,Manual,First Owner
+Tata Harrier,2017,498406,63508.0,Diesel,Individual,Manual,First Owner
+Maruti Alto,2011,215908,136661.0,Petrol,Dealer,Automatic,Second Owner
+Renault Duster,2007,40000,206442.0,Petrol,Individual,Manual,First Owner
+Mahindra XUV500,2010,384844,123695.0,Diesel,Individual,Manual,First Owner
+Hyundai Creta,2011,242649,167693.0,Petrol,Trustmark Dealer,Manual,Second Owner
+Renault Triber,2011,312395,130822.0,Diesel,Individual,Automatic,First Owner
+Tata Altroz,2006,40000,277948.0,Petrol,Trustmark Dealer,Manual,Second Owner
+Honda City,2014,390195,132984.0,Petrol,Trustmark Dealer,Manual,Third Owner
+Renault Kwid,2017,416534,56379.0,Diesel,Individual,Manual,Second Owner
+Tata Tiago,2008,95731,256711.0,petrol,Dealer,Manual,Second Owner
+Ford Aspire,2005,40000,222233.0,Petrol,Dealer,Manual,Second Owner
+Tata Altroz,2017,595367,45027.0,Diesel,Individual,Automatic,First Owner
+Honda Amaze,2005,122805,89964.0,Diesel,Individual,Manual,Third Owner
+Honda Jazz,2007,175995,153146.0,Petrol,Individual,Manual,First Owner
+Ford EcoSport,2011,297474,121195.0,Petrol,Individual,Manual,Third Owner
+Mahindra XUV500,2010,366641,140063.0,Petrol,Individual,Automatic,Fourth & Above Owner
+Honda City,2020,680659,20866.0,Petrol,Individual,Manual,Second Owner
+Renault Duster,2019,500392,21259.0,Petrol,Individual,Manual,First Owner
+Hyundai i20,2007,210377,151863.0,Diesel,Individual,Manual,First Owner
+Ford EcoSport,2018,582632,47930.0,Diesel,Individual,Manual,Second Owner
+Mahindra Bolero,2018,734382,31279.0,Petrol,Trustmark Dealer,Automatic,First Owner
+Ford Figo,2017,572094,40286.0,Petrol,Trustmark Dealer,Manual,First Owner
+Maruti Wagon R,2005,40000,153506.0,petrol,Individual,Manual,Third Owner
+Maruti Ertiga,2017,398656,,Petrol,Trustmark Dealer,Manual,Second Owner
+Hyundai Venue,2015,425875,56011.0,Petrol,Dealer,Manual,Third Owner
+Mahindra Scorpio,2012,386869,93337.0,Diesel,Trustmark Dealer,Manual,Fourth & Above Owner
+Honda Amaze,2020,606807,30403.0,Petrol,Dealer,Manual,Fourth & Above Owner
+Honda Amaze,2016,562433,72262.0,Petrol,Trustmark Dealer,Automatic,First Owner
+Hyundai Venue,2014,350443,136920.0,Petrol,Individual,Manual,Third Owner
+Hyundai Venue,2010,183796,195612.0,Petrol,Trustmark Dealer,Manual,First Owner
+Tata Tiago,2006,40000,281751.0,Petrol,Individual,Manual,First Owner
+Toyota Fortuner,2020,869947,20171.0,CNG,Individual,Manual,Second Owner
+Honda WR-V,2010,303632,132431.0,CNG,Individual,Manual,First Owner
+Honda WR-V,2007,198083,231527.0,LPG,Individual,Manual,Second Owner
+Honda Amaze,2020,760780,5128.0,Petrol,Individual,Manual,First Owner
+Toyota Fortuner,2013,615897,98299.0,Petrol,Trustmark Dealer,Manual,First Owner
+Toyota Etios,2005,389104,123575.0,Petrol,Individual,Manual,First Owner
+Honda WR-V,2018,625908,39179.0,Diesel,Trustmark Dealer,Manual,Second Owner
+Toyota Innova,2010,544272,61243.0,petrol,Dealer,Manual,First Owner
+Maruti Alto,2006,160491,125790.0,Diesel,Individual,Automatic,First Owner
+Maruti Dzire,2005,40000,202386.0,Diesel,Dealer,Manual,First Owner
+Mahindra XUV500,2018,790148,12901.0,Diesel,Individual,Automatic,Third Owner
+Renault Kwid,2019,492658,30669.0,Petrol,Dealer,Manual,Third Owner
+Renault Kwid,2015,467240,86209.0,Diesel,Dealer,Automatic,First Owner
+Ford EcoSport,2018,653409,8526.0,Petrol,Dealer,Automatic,Second Owner
+Toyota Fortuner,2017,834125,69384.0,Diesel,Individual,Manual,First Owner
+Renault Triber,2018,586752,35959.0,Diesel,Dealer,Manual,First Owner
+Maruti Alto,2008,98590,217219.0,Petrol,Individual,Manual,First Owner
+Honda Jazz,2012,366257,166446.0,Diesel,Individual,Manual,Second Owner
+Maruti Swift,2005,40000,204073.0,Diesel,Dealer,Manual,First Owner
+Mahindra XUV500,2014,473172,59363.0,Petrol,Dealer,Manual,First Owner
+Honda Amaze,2012,381018,135078.0,Petrol,Individual,Automatic,Third Owner
+Toyota Innova,2008,397996,137068.0,Petrol,Dealer,Manual,First Owner
+Renault Triber,2005,40000,248895.0,Diesel,Dealer,Manual,First Owner
+Toyota Etios,2010,537223,91897.0,Petrol,Individual,Manual,First Owner
+Renault Duster,2019,474563,30998.0,Petrol,Dealer,Manual,Third Owner
+Maruti Baleno,2015,346699,54355.0,Petrol,Dealer,Manual,First Owner
+Honda Jazz,2006,186956,281194.0,Diesel,Individual,Manual,First Owner
+Ford Aspire,2006,40000,247949.0,Diesel,Individual,Manual,Third Owner
+Toyota Glanza,2005,365084,226974.0,Diesel,Individual,Manual,First Owner
+Renault Triber,2015,389893,74025.0,petrol,Individual,Manual,Second Owner
+Ford Figo,2014,382017,102233.0,Petrol,Trustmark Dealer,Manual,Second Owner
+Mahindra Scorpio,2013,596937,49957.0,LPG,Dealer,Automatic,First Owner
+Toyota Innova,2011,538043,181807.0,Petrol,Trustmark Dealer,Manual,First Owner
+Toyota Innova,2010,551456,177886.0,Diesel,Dealer,Manual,Second Owner
+Ford Figo,2007,259008,148110.0,Diesel,Individual,Automatic,First Owner
+Mahindra Scorpio,2014,550415,125004.0,diesel,Individual,Automatic,Third Owner
+Toyota Etios,2014,685274,74071.0,LPG,Trustmark Dealer,Manual,First Owner
+Maruti Ertiga,2020,544133,500.0,Petrol,Individual,Manual,Third Owner
+Honda WR-V,2018,629252,45325.0,Diesel,Individual,Manual,Second Owner
+Mahindra XUV500,2016,530022,43824.0,Petrol,Individual,Manual,Third Owner
+Tata Altroz,2005,40000,197233.0,cng,Dealer,Manual,First Owner
+Tata Altroz,2011,340015,214355.0,Diesel,Individual,Automatic,Second Owner
+Honda Amaze,2011,321417,64537.0,Petrol,Dealer,Manual,Second Owner
+Honda City,2015,629242,55502.0,Diesel,Individual,Automatic,Second Owner
+Tata Tiago,2007,82258,227589.0,Petrol,Individual,Manual,First Owner
+Maruti Wagon R,2006,40000,277533.0,Petrol,Individual,Automatic,First Owner
+Mahindra XUV500,2020,734393,11314.0,Petrol,Dealer,Manual,First Owner
+Toyota Innova,2012,582876,81935.0,Petrol,Individual,Manual,Second Owner
+Tata Altroz,2008,115095,235230.0,LPG,Trustmark Dealer,Automatic,First Owner
+Toyota Etios,2015,716404,68696.0,Petrol,Trustmark Dealer,Manual,First Owner
+Honda City,2007,184385,117063.0,Diesel,Individual,Manual,Second Owner
+Ford EcoSport,2019,552768,26658.0,CNG,Individual,Manual,Second Owner
+Maruti Dzire,2020,476248,15045.0,Petrol,Dealer,Manual,Second Owner
+Hyundai Verna,2010,268036,125936.0,Petrol,Dealer,Manual,Third Owner
+Honda Jazz,2013,402368,154160.0,Petrol,Dealer,Manual,First Owner
+Tata Nexon,2020,722809,3121.0,Diesel,Individual,Automatic,First Owner
+Mahindra Bolero,2011,360913,92115.0,Petrol,Individual,Manual,First Owner
+Maruti Baleno,2007,64574,93814.0,Petrol,Individual,Manual,Second Owner
+Hyundai Venue,2014,527957,22678.0,CNG,Individual,Manual,Second Owner
+Maruti Swift,2016,394502,85180.0,Petrol,Individual,Manual,First Owner
+Maruti Ertiga,2007,86929,107362.0,Diesel,Individual,Manual,First Owner
+Honda Jazz,2020,734926,16826.0,Diesel,Individual,Manual,First Owner
+Tata Harrier,2009,165957,128339.0,Petrol,Dealer,Manual,First Owner
+Honda Jazz,2017,694761,27642.0,Diesel,Individual,Automatic,First Owner
+Renault Triber,2009,86346,208093.0,Diesel,Individual,Manual,Fourth & Above Owner
+Toyota Etios,2013,523350,,Petrol,Individual,Manual,Third Owner
+Ford Figo,2010,203134,190387.0,Petrol,Individual,Manual,Second Owner
+Maruti Swift,2008,86024,91632.0,Petrol,Dealer,Manual,First Owner
+Hyundai Venue,2016,526678,86043.0,CNG,Trustmark Dealer,Manual,First Owner
+Ford EcoSport,2005,40000,212487.0,Petrol,Individual,Manual,Second Owner
+Toyota Fortuner,2007,376071,122810.0,CNG,Individual,Manual,Second Owner
+Maruti Ertiga,2008,74232,232745.0,Diesel,Trustmark Dealer,Manual,Third Owner
+Renault Duster,2016,486123,73312.0,Diesel,Individual,Manual,First Owner
+Tata Harrier,2005,83382,243707.0,Diesel,Individual,Manual,First Owner
+Renault Triber,2008,106382,215309.0,LPG,Individual,Manual,First Owner
+Ford Aspire,2010,231905,170771.0,Petrol,Individual,Manual,Second Owner
+Tata Altroz,2017,442938,72782.0,Petrol,Individual,Manual,Second Owner
+Mahindra Bolero,2014,491921,145049.0,Diesel,Individual,Manual,Second Owner
+Renault Triber,2006,43595,155629.0,Diesel,Individual,Manual,First Owner
+Honda City,2017,588687,43802.0,Petrol,Individual,Manual,Second Owner
+Mahindra Scorpio,2016,597162,76617.0,Diesel,Dealer,Manual,First Owner
+Toyota Fortuner,2013,634457,146067.0,Diesel,Trustmark Dealer,Manual,Second Owner
+Hyundai Creta,2016,505777,18004.0,Diesel,Individual,Manual,Third Owner
+Honda Jazz,2006,173406,149058.0,Petrol,Individual,Manual,First Owner
+Tata Tiago,2015,443057,31631.0,Petrol,Individual,Manual,Second Owner
+Toyota Innova,2015,741590,90935.0,Petrol,Individual,Manual,First Owner
+Hyundai Venue,2007,266400,122387.0,Petrol,Individual,Automatic,First Owner
+Toyota Fortuner,2007,435272,76291.0,Petrol,Individual,Manual,Second Owner
+Renault Triber,2007,59254,143279.0,Diesel,Individual,Manual,First Owner
+Honda WR-V,2017,628520,73266.0,Petrol,Individual,Automatic,First Owner
+Hyundai i10,2011,339929,61889.0,Petrol,Dealer,Manual,First Owner
+Ford Figo,2010,203134,190387.0,Petrol,Individual,Manual,Second Owner
